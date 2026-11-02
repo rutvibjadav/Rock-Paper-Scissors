@@ -1,82 +1,67 @@
-✊ Rock Paper Scissors Game
+# ✊ Rock Paper Scissors Game
 
-📌 Project Overview
+## 📌 Project Overview
 
-Rock Paper Scissors is a simple and interactive browser-based game developed using HTML, CSS, and JavaScript. Players can compete against the computer by choosing Rock, Paper, or Scissors. The game automatically determines the winner based on the selected choices.
+Rock Paper Scissors is a simple and interactive browser-based game developed using **HTML, CSS, and JavaScript**. Players can compete against the computer by choosing Rock, Paper, or Scissors. The game automatically determines the winner based on the selected choices.
 
-✨ Features
+## ✨ Features
 
-🎮 Interactive Rock, Paper, Scissors gameplay.
+- 🎮 Interactive Rock, Paper, Scissors gameplay.
+- 🤖 Play against the computer.
+- 🎲 Random computer selection.
+- 🏆 Automatic winner detection.
+- 📊 Score tracking for both player and computer.
+- 🔄 Play again functionality.
+- 📱 Responsive and user-friendly design.
 
-🤖 Play against the computer.
+## 🛠️ Technologies Used
 
-🎲 Random computer selection.
+- **HTML5** – Structure of the game.
+- **CSS3** – Styling and responsive design.
+- **JavaScript** – Game logic and interactivity.
 
-🏆 Automatic winner detection.
+## 🚀 How to Play
 
-📊 Score tracking for both player and computer.
+1. Open the game in your browser.
+2. Select Rock, Paper, or Scissors.
+3. The computer will randomly select its choice.
+4. The game will display the result.
+5. The score will be updated automatically.
+6. Play again and enjoy!
 
-🔄 Play again functionality.
+## 📂 Project Structure
 
-📱 Responsive and user-friendly design.
-
-🛠️ Technologies Used
-
-HTML5 – Structure of the game.
-
-CSS3 – Styling and responsive design.
-
-JavaScript – Game logic and interactivity.
-
-🚀 How to Play
-
-Open the game in your browser.
-
-Select Rock, Paper, or Scissors.
-
-The computer will randomly select its choice.
-
-The game will display the result.
-
-The score will be updated automatically.
-
-Play again and enjoy!
-
-📂 Project Structure
-
+```text
 Rock-Paper-Scissors/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
-💻 How to Run the Project
+## 💻 How to Run the Project
 
-Clone this repository:
+1. Clone this repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+   ```bash
+   git clone YOUR_GITHUB_REPOSITORY_URL
+   ```
 
-Open the project folder.
+2. Open the project folder.
+3. Open `index.html` in your web browser.
+4. Start playing!
 
-Open index.html in your web browser.
+## 🎯 Learning Outcomes
 
-Start playing!
+- Improved understanding of JavaScript fundamentals.
+- Practiced DOM manipulation and event handling.
+- Learned random number generation.
+- Implemented conditional statements and game logic.
+- Improved HTML and CSS skills.
 
-🎯 Learning Outcomes
+## 👩‍💻 Developed By
 
-Improved understanding of JavaScript fundamentals.
-
-Practiced DOM manipulation and event handling.
-
-Learned random number generation.
-
-Implemented conditional statements and game logic.
-
-Improved HTML and CSS skills.
-
-👩‍💻 Developed By
-
-Rutvi Jadav
+**Rutvi Jadav**
 
 Web Development Internship – Veda Technology
