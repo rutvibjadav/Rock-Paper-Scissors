@@ -18,9 +18,9 @@ This project allows users to play the classic Rock Paper Scissors game against t
 
 🛠️ Technologies Used
 
-- **HTML5** – Used to create the structure.
-- **CSS3** – Used for styling and responsive design.
-- **JavaScript** – Used to implement game logic and interactivity.
+- HTML5 – Used to create the structure.
+- CSS3 – Used for styling and responsive design.
+- JavaScript – Used to implement game logic and interactivity.
 
 🎯 Game Rules
 
